@@ -1,7 +1,7 @@
 # RKS
 A. Penjelasan
 
-Tugas yang saya buat ini merupakan tampilan dari salah satu fitur aplikasi google classroom yaitu mengumpulkan tugas atau file ke classroom. Dimana dalam tugas ini hanya membuat bagian front end nya dengan menggunakan Visual Studio Code. Terdapat perbedaan dari aplikasi ini dengan wireframe yang saya buat pada tugas sebelumnya. Dimana pada tugas sebelumnya saya membuat wireframe versi android sedangkan pada hasil akhir ini merupakan tampilan versi web.
+Tugas yang saya buat ini merupakan tampilan dari salah satu fitur aplikasi google classroom yaitu mengumpulkan tugas atau file ke classroom. Dimana dalam tugas ini hanya membuat bagian front end nya dengan menggunakan Visual Studio Code. Terdapat perbedaan dari aplikasi ini dengan wireframe yang saya buat pada tugas sebelumnya. Dimana pada tugas sebelumnya saya membuat wireframe tampilan mobile sedangkan pada hasil akhir ini merupakan tampilan web.
 
 B. Link tautan folder UTS :
 https://drive.google.com/drive/folders/1-MOtj6qID7Ior3TJYHvjGxIYHRebfA7O?usp=sharing
